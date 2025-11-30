@@ -1,0 +1,8 @@
+{
+  "name": "NeziskovkaPro - Účetní systém",
+  "description": "Komplexní účetní aplikace pro české neziskové organizace (zapsané spolky) s podporou Gemini AI pro kategorizaci a legislativní poradenství.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
