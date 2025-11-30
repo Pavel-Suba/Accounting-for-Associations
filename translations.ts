@@ -73,17 +73,17 @@ export const translations = {
     tax_base: 'Základ daně',
     tax: 'Daň',
 
-    // Guide
-    guide_title: 'Co musí program obsahovat?',
-    guide_intro: 'Na základě vašeho požadavku jsem připravil tento prototyp, který demonstruje klíčové funkcionality pro účetnictví neziskové organizace.',
-    guide_point_1: 'Rozdělení činností',
-    guide_point_1_text: 'Absolutní základ pro neziskovky. Musíte oddělovat hlavní (poslání) a vedlejší (hospodářskou) činnost.',
-    guide_point_2: 'Peněžní deník',
-    guide_point_2_text: 'Evidence příjmů a výdajů, data, čísla dokladu a daňové uznatelnosti.',
-    guide_point_3: 'Výstupy pro úřady',
-    guide_point_3_text: 'Rozvaha, Výkaz zisku a ztráty a podklady pro DPPO.',
-    guide_warning: 'Důležité upozornění',
-    guide_warning_text: 'Toto je demonstrační aplikace. Pro reálné vedení účetnictví doporučujeme konzultaci s daňovým poradcem.',
+    // Guide (Updated for App Introduction)
+    guide_title: 'Vítejte v NeziskovkaPro',
+    guide_intro: 'Komplexní aplikace pro správu českých spolků a neziskových organizací. Pomáháme vám s účetnictvím, legislativou i administrativou pomocí moderní AI.',
+    guide_point_1: 'Chytré účetnictví s AI',
+    guide_point_1_text: 'Nahrávejte faktury a výpisy přetažením myši. Umělá inteligence automaticky rozpozná údaje, navrhne daňovou kategorii a pohlídá rozdělení na hlavní a vedlejší činnost.',
+    guide_point_2: 'Legislativní jistota',
+    guide_point_2_text: 'Sekce "Povinnosti" obsahuje interaktivní checklisty aktualizované dle platných zákonů. Už nezapomenete na svolání schůze nebo podání přiznání.',
+    guide_point_3: 'Generátor dokumentů',
+    guide_point_3_text: 'Vytvářejte právně správné zápisy ze schůzí, inventární protokoly nebo finanční výkazy pro úřady na jedno kliknutí.',
+    guide_warning: 'Režim Beta Verze',
+    guide_warning_text: 'Aplikace využívá generativní AI pro usnadnění práce. Ačkoliv je systém navržen dle české legislativy, vždy doporučujeme finální výstupy (zejména daňové přiznání) zkonzultovat s účetní.',
 
     // Common Enums/Values
     INCOME: 'Příjem',
@@ -215,17 +215,17 @@ export const translations = {
     tax_base: 'Tax Base',
     tax: 'Tax',
 
-    // Guide
-    guide_title: 'What must the app contain?',
-    guide_intro: 'Based on your request, I prepared this prototype demonstrating key functionalities for Czech non-profit accounting.',
-    guide_point_1: 'Activity Split',
-    guide_point_1_text: 'Absolute basis. You must separate Main (Mission) and Secondary (Economic) activities.',
-    guide_point_2: 'Cash Journal',
-    guide_point_2_text: 'Evidence of income and expenses, dates, document numbers, and tax deductibility.',
-    guide_point_3: 'Authority Outputs',
-    guide_point_3_text: 'Balance Sheet, Profit & Loss Statement, and Corporate Tax data.',
-    guide_warning: 'Important Warning',
-    guide_warning_text: 'This is a demo app. For real accounting, consult a tax advisor.',
+    // Guide (Updated for App Introduction)
+    guide_title: 'Welcome to NonProfitPro',
+    guide_intro: 'A comprehensive application for managing Czech associations and non-profits. We help you with accounting, legislation, and administration using modern AI.',
+    guide_point_1: 'Smart Accounting with AI',
+    guide_point_1_text: 'Upload invoices and statements via drag & drop. AI automatically recognizes data, suggests tax categories, and monitors the split between main and secondary activities.',
+    guide_point_2: 'Legislative Compliance',
+    guide_point_2_text: 'The "Obligations" section contains interactive checklists updated according to current laws. You wont miss a meeting or a tax return deadline.',
+    guide_point_3: 'Document Generator',
+    guide_point_3_text: 'Create legally correct meeting minutes, inventory protocols, or financial reports for authorities with a single click.',
+    guide_warning: 'Beta Version Mode',
+    guide_warning_text: 'The application uses generative AI to facilitate work. Although the system is designed according to Czech legislation, we always recommend consulting final outputs (especially tax returns) with an accountant.',
 
     // Common Enums/Values
     INCOME: 'Income',
