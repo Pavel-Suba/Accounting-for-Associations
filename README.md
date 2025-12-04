@@ -18,8 +18,6 @@ NeziskovkaPro řeší administrativní zátěž spolků tím, že kombinuje stan
 |:---:|:---:|
 | ![Dashboard Preview](./screenshots/dashboard.png) | ![Advisor Preview](./screenshots/advisor.png) |
 
-*(Poznámka: Pro zobrazení obrázků vytvořte složku `screenshots` v kořenovém adresáři a vložte do ní soubory `dashboard.png` a `advisor.png`)*
-
 ---
 
 ## ✨ Klíčové Funkce
@@ -129,5 +127,5 @@ Distribuováno pod licencí MIT. Více informací v souboru `LICENSE`.
 
 ---
 
-**Autor:** [Vase Jmeno]  
-**LinkedIn:** [Vás LinkedIn Profil]
+**Autor:** Pavel Šuba 
+**LinkedIn:** https://www.linkedin.com/in/pavel-suba/
