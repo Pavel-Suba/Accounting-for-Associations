@@ -127,5 +127,4 @@ Distribuováno pod licencí MIT. Více informací v souboru `LICENSE`.
 
 ---
 
-**Autor:** Pavel Šuba 
-**LinkedIn:** https://www.linkedin.com/in/pavel-suba/
+**Autor:** Pavel Šuba | **LinkedIn:** https://www.linkedin.com/in/pavel-suba/
