@@ -14,11 +14,11 @@ NeziskovkaPro řeší administrativní zátěž spolků tím, že kombinuje stan
 
 ## 📸 Ukázky (Screenshots)
 
-*(Zde vložte screenshoty aplikace - např. Dashboard, Peněžní deník s AI analýzou, Chat)*
-
 | Dashboard | AI Asistent |
 |:---:|:---:|
-| ![Dashboard Preview](https://via.placeholder.com/400x200?text=Dashboard+Screenshot) | ![Advisor Preview](https://via.placeholder.com/400x200?text=AI+Chat+Screenshot) |
+| ![Dashboard Preview](./screenshots/dashboard.png) | ![Advisor Preview](./screenshots/advisor.png) |
+
+*(Poznámka: Pro zobrazení obrázků vytvořte složku `screenshots` v kořenovém adresáři a vložte do ní soubory `dashboard.png` a `advisor.png`)*
 
 ---
 
